@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Ranjot Dharni!
 
-<!--
-**ranjotdharni/ranjotdharni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building, learning, and collaborating on all things tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Software Engineer with a focus on building scalable and maintainable applications.
+- 🌱 Always learning new technologies and frameworks.
+- 🛠️ Strong interests in open source, automation, and developer tooling.
+- 🤝 Open to collaboration on interesting projects!
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Java, TypeScript, Python, SQL
+- **Frameworks/Libraries:** React, Node.js, Django, Next.js
+- **DevOps:** Docker, GitHub, CI/CD
+- **Cloud:** AWS, OCI, Firebase
+
+---
+
+## 📈 GitHub Stats
+
+![Ranjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjotdharni&show_icons=true&theme=github_dark)
+
+---
+
+## 📫 How to Reach Me
+
+- [Portfolio](https://ranjotdharni.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/ranjot-dharni-717580269/)
+- Email: ranjotdharni1@gmail.com
+
+---
+
+Thanks for stopping by! ⭐️
