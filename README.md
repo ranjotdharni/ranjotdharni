@@ -22,12 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, lea
 
 ---
 
-## 📈 GitHub Stats
-
-![Ranjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjotdharni&show_icons=true&theme=github_dark)
-
----
-
 ## 📫 How to Reach Me
 
 - [Portfolio](https://ranjotdharni.netlify.app/)
